@@ -1,4 +1,4 @@
-![Software Engineer](https://media.licdn.com/dms/image/D5616AQEc21gOfw3ChA/profile-displaybackgroundimage-shrink_350_1400/0/1681335420847?e=1686787200&v=beta&t=fulJ8_6Me63g-nGx6bLV0Wqr_I8k0pcQ2m0VdW3RJSw)
+![Mahedi Hasan Noyon (2)](https://github.com/imhnoyon/imhnoyon/assets/129687381/8591a3e4-a237-4fe6-9870-7cbd3f237501)
 
 ### Hi there 👋, I'm Mahedi Hasan Noyon
 #### Software Engineer
