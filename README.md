@@ -5,7 +5,7 @@
 
 I am a software engineer. I love programming, learning and speaking.As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.That's why I like to make things that make a difference.
 
-Skills: Python / REACT / JS / HTML / CSS/Bootsrap
+Skills: Python / Django / JS / HTML / CSS/Bootsrap
 
 - 🔭 I’m currently working on BackEnd with Django 
 - 🌱 I’m currently learning Machine Learning 
