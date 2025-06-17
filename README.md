@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Mahedi Hasan Noyon
-#### I'm a Software Developer with Django and React
+#### I'm a Software Developer with Python, Django and React
 
   ![Mahedi Hasan Noyon (3)](https://github.com/imhnoyon/imhnoyon/assets/129687381/5515ab00-469a-4cd5-abbe-492126fd4f39)
 
