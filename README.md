@@ -71,15 +71,19 @@ I enjoy writing clean code, solving real-world problems, and continuously learni
 ## 🌐 Connect With Me
 
 <p align="center">
+   <a href="https://mahed.pythonanywhere.com/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
   <a href="https://github.com/imhnoyon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/in/imhnoyon/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
   <a href="https://www.facebook.com/imhnoyon">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
   </a>
+ 
 </p>
 
 ---
