@@ -1,26 +1,91 @@
-### Hi there 👋, This is Mahedi Hasan Noyon
-#### I'm a Software Developer with Python, Django and React
+<h1 align="center">Hi 👋, I'm Mahedi Hasan Noyon</h1>
+<h3 align="center">Software Engineer | Python • Django • React | Backend Focused Developer</h3>
 
-  ![Mahedi Hasan Noyon (3)](https://github.com/imhnoyon/imhnoyon/assets/129687381/5515ab00-469a-4cd5-abbe-492126fd4f39)
+<p align="center">
+  <a href="https://github.com/imhnoyon">
+    <img src="https://komarev.com/ghpvc/?username=imhnoyon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-I am a software engineer. I love programming, learning and speaking.As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.That's why I like to make things that make a difference.
+---
 
-Skills: Python / Django / Django REST Framework / JS / C++ / HTML / CSS/Bootsrap
+<p align="center">
+  <img src="https://github.com/imhnoyon/imhnoyon/assets/129687381/5515ab00-469a-4cd5-abbe-492126fd4f39" width="250" />
+</p>
 
-- 🔭 I’m currently working on BackEnd with Django 
-- 🌱 I’m currently learning Machine Learning 
-- 💬 Ask me about PYTHON ,REACT,JAVASCRIPT 
+---
 
+## 🧠 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imhnoyon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/imhnoyon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/imhnoyon)  
+I am a passionate **Software Engineer** focused on building scalable backend systems and modern web applications.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+I enjoy writing clean code, solving real-world problems, and continuously learning new technologies.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhnoyon)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 Currently working on **Django Backend Systems**
+- 🌱 Currently learning **Machine Learning & System Design**
+- 💬 Ask me about **Python, Django, Django REST Framework, React**
+- 🎯 Goal: Become a strong **Backend / Full-Stack Engineer**
+- ⚡ Fun fact: I enjoy turning ideas into real products
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhnoyon&show_icons=true&count_private=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/imhnoyon)  
+## 🛠️ Tech Stack
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=imhnoyon)  
+### 🚀 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge)
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imhnoyon&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhnoyon&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imhnoyon&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/imhnoyon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/in/imhnoyon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/imhnoyon">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Developer Mindset
+
+> “First make it work, then make it better, then make it fast.”
+
+> Clean code, scalable architecture, and continuous learning define my engineering approach.
