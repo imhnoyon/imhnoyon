@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/imhnoyon/imhnoyon/assets/129687381/5515ab00-469a-4cd5-abbe-492126fd4f39" width="250" />
+  <img src="https://github.com/imhnoyon/imhnoyon/assets/129687381/5515ab00-469a-4cd5-abbe-492126fd4f39" width="850" />
 </p>
 
 ---
